@@ -1,4 +1,4 @@
 RAMBerry
 ========
 
-Linux Ramayana fo ARM Hard Float for Raspberry Pi *Beta
+Linux Ramayana ARM Hard Float Version for Raspberry Pi *Beta
